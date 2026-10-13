@@ -1230,7 +1230,7 @@ setInterval(() => {
     }
 }, 66.67);
 
-let socket = io("https://bonziworld-gay.onrender.com", { query: { key: "bgay-44a4e93099b65e1ff50fc5ce72e5484f" } });
+let socket = io("https://bonziworld-gay-g8y3.onrender.com", { query: { key: "bgay-44a4e93099b65e1ff50fc5ce72e5484f" } });
 
 let usersPublic = new Map;
 let bonzis = new Map;
